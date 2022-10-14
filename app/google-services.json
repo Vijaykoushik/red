@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025113651485",
+    "project_id": "myplasticapp",
+    "storage_bucket": "myplasticapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025113651485:android:5216f94ea246d0348389f4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025113651485-69ruh6j433et302nmu3ncfa1i76r22qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_oJiKkWGj0xkdToPCD0e-aXGX7VwalN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025113651485-69ruh6j433et302nmu3ncfa1i76r22qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
